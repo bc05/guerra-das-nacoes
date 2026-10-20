@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <EnableDefaultCompileItems>true</EnableDefaultCompileItems>
+    <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+    <DefaultItemExcludes>$(DefaultItemExcludes);Build/**;.dotnet/**;.nuget/**;data/**</DefaultItemExcludes>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Admin/**/*" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="ThirdPartyNotices.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="Licenses/**/*" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Update="world-collision.json" CopyToPublishDirectory="PreserveNewest" Condition="Exists('world-collision.json')" />
+    <Content Update="catacombs-collision.json" CopyToPublishDirectory="PreserveNewest" Condition="Exists('catacombs-collision.json')" />
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="10.0.13" />
+    <Compile Include="../Unity/Assets/Scripts/CombatScaling.cs" Link="Shared/CombatScaling.cs" />
+    <Compile Include="../Unity/Assets/Scripts/PlayerProgression.cs" Link="Shared/PlayerProgression.cs" />
+    <Compile Include="../Unity/Assets/Scripts/WeaponRequirements.cs" Link="Shared/WeaponRequirements.cs" />
+    <Compile Include="../Unity/Assets/Scripts/EquipmentItem.cs" Link="Shared/EquipmentItem.cs" />
+    <Compile Include="../Unity/Assets/Scripts/EquipmentCatalog.cs" Link="Shared/EquipmentCatalog.cs" />
+    <Compile Include="../Unity/Assets/Scripts/EquipmentState.cs" Link="Shared/EquipmentState.cs" />
+    <Compile Include="../Unity/Assets/Scripts/CharacterSaveData.cs" Link="Shared/CharacterSaveData.cs" />
+    <Compile Include="../Unity/Assets/Scripts/EconomyContracts.cs" Link="Shared/EconomyContracts.cs" />
+    <Compile Include="../Unity/Assets/Scripts/EconomyDefaults.cs" Link="Shared/EconomyDefaults.cs" />
+    <Compile Include="../Unity/Assets/Scripts/MonsterCatalog.cs" Link="Shared/MonsterCatalog.cs" />
+    <Compile Include="../Unity/Assets/Scripts/CatacombsLayout.cs" Link="Shared/CatacombsLayout.cs" />
+    <Compile Include="../Unity/Assets/Scripts/CatacombsContent.cs" Link="Shared/CatacombsContent.cs" />
+    <Compile Include="../Unity/Assets/Scripts/OnlineContracts.cs" Link="Shared/OnlineContracts.cs" />
+    <Compile Include="../Unity/Assets/Scripts/CharacterNickname.cs" Link="Shared/CharacterNickname.cs" />
+  </ItemGroup>
+</Project>

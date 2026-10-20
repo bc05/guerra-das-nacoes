@@ -1,0 +1,22 @@
+Guerra das Nações — servidor do protótipo
+
+Este pacote inclui o runtime .NET 10.0.13 e ASP.NET Core 10.0.13,
+Copyright (c) .NET Foundation and Contributors / Microsoft Corporation.
+As licenças e avisos completos distribuídos nos pacotes oficiais estão em Licenses/.
+
+Microsoft.Data.Sqlite e Microsoft.Data.Sqlite.Core 10.0.13
+Copyright (c) .NET Foundation and Contributors.
+Copyright Microsoft Corporation. All rights reserved.
+Licença MIT: Licenses/Microsoft.Data.Sqlite-LICENSE.txt
+https://github.com/dotnet/efcore/tree/v10.0.13
+
+SQLitePCLRaw.core, bundle_e_sqlite3, provider.e_sqlite3 e lib.e_sqlite3 2.1.13
+Copyright 2014-2024 SourceGear, LLC.
+Licença Apache-2.0: Licenses/SQLitePCLRaw-LICENSE.txt
+https://github.com/ericsink/SQLitePCL.raw
+
+SQLite foi dedicado ao domínio público por seus autores.
+https://www.sqlite.org/copyright.html
+
+Não foram modificadas as bibliotecas redistribuídas. As versões e hashes de
+dependências usadas na compilação estão em packages.lock.json nos fontes.
