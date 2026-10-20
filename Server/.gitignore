@@ -1,0 +1,15 @@
+.dotnet/
+.nuget/
+bin/
+obj/
+Build/
+data/
+*.db
+*.db-shm
+*.db-wal
+*.db.lock
+*.log
+
+# Local administrator credentials and pre-migration character backups.
+admin-secret.txt
+*.db.pre-v2-*.bak
