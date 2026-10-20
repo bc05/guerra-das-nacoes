@@ -1,0 +1,273 @@
+[
+  {
+    "file": "sword_swing_1.wav",
+    "source": "Kenney RPG Audio/knifeSlice.ogg (CC0), original air layer",
+    "duration": 0.5995,
+    "peak_db": -2.16,
+    "rms_db": -20.39,
+    "sha256": "610c0f0bb3db0064cfa01ffe35025ce8485d118980eb69fc665fdfe0b9c91cef"
+  },
+  {
+    "file": "sword_swing_2.wav",
+    "source": "Kenney RPG Audio/knifeSlice2.ogg (CC0), original air layer",
+    "duration": 0.5688,
+    "peak_db": -2.16,
+    "rms_db": -21.0,
+    "sha256": "9737d34c22477f245b6e50b6c8b91465dcf44b20ad41c53438cfed14ee76207f"
+  },
+  {
+    "file": "sword_swing_3.wav",
+    "source": "Kenney RPG Audio/drawKnife2.ogg (CC0), original air layer",
+    "duration": 0.4459,
+    "peak_db": -2.16,
+    "rms_db": -16.88,
+    "sha256": "c13dbca17aad91741c36ec616a3034c4e3080d20b34a3bbeca9d600d9613c6d6"
+  },
+  {
+    "file": "heavy_swing_1.wav",
+    "source": "Kenney RPG Audio/knifeSlice.ogg (CC0), slowed and original air layer",
+    "duration": 0.8851,
+    "peak_db": -2.16,
+    "rms_db": -18.85,
+    "sha256": "687706f2bd88aa2a5701ea3265f4694f35cc3267a90cd3a0917b83a680bc5132"
+  },
+  {
+    "file": "heavy_swing_2.wav",
+    "source": "Kenney RPG Audio/knifeSlice2.ogg (CC0), slowed and original air layer",
+    "duration": 0.8405,
+    "peak_db": -2.16,
+    "rms_db": -19.02,
+    "sha256": "6d26b556df49aeeed48bff289bd63802a70183ad99564f5ce847ba0bc546f332"
+  },
+  {
+    "file": "blade_hit_1.wav",
+    "source": "Kenney Impact Sounds/impactPunch_heavy_000.ogg + impactMetal_light_000.ogg (CC0)",
+    "duration": 0.649,
+    "peak_db": -2.16,
+    "rms_db": -19.66,
+    "sha256": "f96861b9c5b1ac20728355de79e15bdf74fa1316c646de9df58f0560edd72217"
+  },
+  {
+    "file": "monster_strike_1.wav",
+    "source": "Original procedural low air movement",
+    "duration": 0.4,
+    "peak_db": -3.44,
+    "rms_db": -16.77,
+    "sha256": "1dbf7ca37dd1f5717bbb2b2d700d82415aa16beedead1b234f4d75c8ca3f13c7"
+  },
+  {
+    "file": "monster_impact_1.wav",
+    "source": "Kenney Impact Sounds/impactPunch_heavy_000.ogg + impactWood_heavy_000.ogg (CC0)",
+    "duration": 0.649,
+    "peak_db": -2.16,
+    "rms_db": -18.38,
+    "sha256": "d990ae10640c10f2d51a4cf67469222548e81b1eff6128c1bbcc04fb62011209"
+  },
+  {
+    "file": "blade_hit_2.wav",
+    "source": "Kenney Impact Sounds/impactPunch_heavy_001.ogg + impactMetal_light_001.ogg (CC0)",
+    "duration": 0.5359,
+    "peak_db": -2.16,
+    "rms_db": -18.86,
+    "sha256": "de64132da68a17885b5f5642c71e70d3bdd30ec796228fcb944396a8cf9ebab2"
+  },
+  {
+    "file": "monster_strike_2.wav",
+    "source": "Original procedural low air movement",
+    "duration": 0.4,
+    "peak_db": -2.84,
+    "rms_db": -16.77,
+    "sha256": "1f39a1dc67509fa4688c267f3a3f963490a03d889ec835c4feb5aa7dd892999d"
+  },
+  {
+    "file": "monster_impact_2.wav",
+    "source": "Kenney Impact Sounds/impactPunch_heavy_001.ogg + impactWood_heavy_001.ogg (CC0)",
+    "duration": 0.5359,
+    "peak_db": -2.16,
+    "rms_db": -18.17,
+    "sha256": "8b06e8983ae32776dd4fef128188c5ff65e95c5fd50f05e25f4b2c54c84559ac"
+  },
+  {
+    "file": "blade_hit_3.wav",
+    "source": "Kenney Impact Sounds/impactPunch_heavy_002.ogg + impactMetal_light_002.ogg (CC0)",
+    "duration": 0.4575,
+    "peak_db": -2.16,
+    "rms_db": -18.25,
+    "sha256": "97f235d2536bd4bb31a5da2c0a1ae09874801292d68fe7e477a199f0398990ae"
+  },
+  {
+    "file": "monster_strike_3.wav",
+    "source": "Original procedural low air movement",
+    "duration": 0.4,
+    "peak_db": -3.81,
+    "rms_db": -16.77,
+    "sha256": "397c75c0ae9b8dc3ebd60e6653c6ae65d3851fb438b35742f3142c4363a7faab"
+  },
+  {
+    "file": "monster_impact_3.wav",
+    "source": "Kenney Impact Sounds/impactPunch_heavy_002.ogg + impactWood_heavy_002.ogg (CC0)",
+    "duration": 0.4575,
+    "peak_db": -2.16,
+    "rms_db": -17.36,
+    "sha256": "08be7bc1f2f75adf523c90f7c41c2ce3e530a7254c7c240a3033a921f83a85d9"
+  },
+  {
+    "file": "hero_hurt_1.wav",
+    "source": "Kenney Impact Sounds/impactPunch_medium_000.ogg (CC0)",
+    "duration": 0.4305,
+    "peak_db": -2.16,
+    "rms_db": -18.23,
+    "sha256": "4a25dc3d15063bfaf7ff249225bb7499a735601522b8d1971ab5f604874093c5"
+  },
+  {
+    "file": "hero_hurt_2.wav",
+    "source": "Kenney Impact Sounds/impactPunch_medium_001.ogg (CC0)",
+    "duration": 0.4017,
+    "peak_db": -2.16,
+    "rms_db": -17.89,
+    "sha256": "d29c3cb0b6744ffcae37757ee864cafb14da44def2024a7169f24c6e79b5549e"
+  },
+  {
+    "file": "footstep_1.wav",
+    "source": "Kenney Impact Sounds/footstep_concrete_000.ogg (CC0)",
+    "duration": 0.103,
+    "peak_db": -2.16,
+    "rms_db": -20.09,
+    "sha256": "4a2005c9e407d7316eb9fb9844040ba2f12de5671a83867de47effd403c4c732"
+  },
+  {
+    "file": "footstep_2.wav",
+    "source": "Kenney Impact Sounds/footstep_concrete_001.ogg (CC0)",
+    "duration": 0.1047,
+    "peak_db": -2.16,
+    "rms_db": -20.32,
+    "sha256": "d05bc5aec409edc80dcfb1ccb0935405b9c308d85ac3373e7835d4ea279768b6"
+  },
+  {
+    "file": "footstep_3.wav",
+    "source": "Kenney Impact Sounds/footstep_concrete_002.ogg (CC0)",
+    "duration": 0.1099,
+    "peak_db": -2.16,
+    "rms_db": -21.37,
+    "sha256": "367daefe588e4a6670fe1ff846ebce5b522b093934bfcfa6fa7e34903a682880"
+  },
+  {
+    "file": "footstep_4.wav",
+    "source": "Kenney Impact Sounds/footstep_concrete_003.ogg (CC0)",
+    "duration": 0.1076,
+    "peak_db": -2.16,
+    "rms_db": -20.42,
+    "sha256": "d48775e823c6f21cfa7fa370bb2e0f8fdde758436d3cde69c6e6df021099eaa6"
+  },
+  {
+    "file": "monster_windup_1.wav",
+    "source": "Ogrebane Monster Sound Pack Volume 1/Monster-1.wav (CC0), downpitched 10%",
+    "duration": 0.8333,
+    "peak_db": -2.16,
+    "rms_db": -22.32,
+    "sha256": "8fab2f868b4fdcc327891dbba6ec6267722ab74d8ae20dafa58d23a48a88e16c"
+  },
+  {
+    "file": "monster_windup_2.wav",
+    "source": "Ogrebane Monster Sound Pack Volume 1/Monster-2.wav (CC0), downpitched 10%",
+    "duration": 0.9722,
+    "peak_db": -2.16,
+    "rms_db": -22.24,
+    "sha256": "1a329bb0b75633558be804ac4233b33d917dd2a721ed9a7210a0338d7604c641"
+  },
+  {
+    "file": "monster_windup_3.wav",
+    "source": "Ogrebane Monster Sound Pack Volume 1/Monster-3.wav (CC0), downpitched 10%",
+    "duration": 0.7639,
+    "peak_db": -2.16,
+    "rms_db": -21.55,
+    "sha256": "12e08c3ae33d07191f737f4a20af72cabc47cb4b6411b4e0d7c8223a05e60311"
+  },
+  {
+    "file": "monster_hurt_1.wav",
+    "source": "Ogrebane Monster Sound Pack Volume 1/Monster-4.wav (CC0), downpitched 10%",
+    "duration": 0.4167,
+    "peak_db": -2.16,
+    "rms_db": -19.88,
+    "sha256": "635eccea582eb0c5ceb4e0f3088cd7353ffa1a143d23b39c4e75e11a3890ddcb"
+  },
+  {
+    "file": "monster_hurt_2.wav",
+    "source": "Ogrebane Monster Sound Pack Volume 1/Monster-5.wav (CC0), downpitched 10%",
+    "duration": 0.4977,
+    "peak_db": -2.16,
+    "rms_db": -21.17,
+    "sha256": "f38c544ad4150f977abaf8f6e9740d4bc456dfdc763df774dccca0ffcda470ea"
+  },
+  {
+    "file": "monster_hurt_3.wav",
+    "source": "Ogrebane Monster Sound Pack Volume 1/Monster-6.wav (CC0), downpitched 10%",
+    "duration": 0.5324,
+    "peak_db": -2.16,
+    "rms_db": -20.83,
+    "sha256": "d4e29f6e9cb50cf9427b4a526675da9270fde52434dc3005d825e3001a83a77d"
+  },
+  {
+    "file": "monster_death_1.wav",
+    "source": "Ogrebane Monster Sound Pack Volume 1/monster-11.wav (CC0), downpitched with short reflection",
+    "duration": 0.825,
+    "peak_db": -2.16,
+    "rms_db": -21.38,
+    "sha256": "8f1313a2755ca70a29eca9ce577689a832a1448bb512dd33eae23c27473aa392"
+  },
+  {
+    "file": "monster_death_2.wav",
+    "source": "Ogrebane Monster Sound Pack Volume 1/monster-14.wav (CC0), downpitched with short reflection",
+    "duration": 0.9083,
+    "peak_db": -2.16,
+    "rms_db": -22.27,
+    "sha256": "eb38ea2e0efbf4ba67328df733f5e5de9f54c8affc36d87696be340ab7b8be21"
+  },
+  {
+    "file": "magic_guard_1.wav",
+    "source": "Original procedural harmonic and air layers",
+    "duration": 1.45,
+    "peak_db": -3.0,
+    "rms_db": -18.42,
+    "sha256": "f672c5f59ae62ebe475c63f8b3d9cc337a1c86f90922f90f94915cb93a82c976"
+  },
+  {
+    "file": "magic_heal_1.wav",
+    "source": "Original procedural harmonic and air layers",
+    "duration": 1.9,
+    "peak_db": -4.41,
+    "rms_db": -18.42,
+    "sha256": "678e3c1a98417031ab2cae010afdc1c8f60cf4736def3a154b4ac63f78649535"
+  },
+  {
+    "file": "magic_fury_1.wav",
+    "source": "Original procedural harmonic and air layers",
+    "duration": 1.55,
+    "peak_db": -9.53,
+    "rms_db": -18.42,
+    "sha256": "61d1a66e94568af47c1b3d7cece473be2a99a90d8f7fb4167a01ba92bc517e24"
+  },
+  {
+    "file": "level_up_1.wav",
+    "source": "Original procedural harmonic and air layers",
+    "duration": 2.3,
+    "peak_db": -4.25,
+    "rms_db": -18.42,
+    "sha256": "a69b7264dd351b98b7652311289167ad30e249ebe9b66f818ee022e0b6a9cb6e"
+  },
+  {
+    "file": "ambient_wind.wav",
+    "source": "Original procedural filtered pink noise, 4-second loop overlap",
+    "duration": 24.0,
+    "rms_db": -26.94,
+    "sha256": "7eb879fec5690ea38d487b47bea8155537d1208b5e1c154b8eed3f4be3e2f653"
+  },
+  {
+    "file": "ambient_hope.ogg",
+    "source": "A Kind Of Hope by Scott Buckley (CC-BY 4.0), full mix converted to Vorbis, loudness normalized to -23 LUFS and short entry/exit fades",
+    "source_url": "https://www.scottbuckley.com.au/library/a-kind-of-hope/",
+    "sha256": "5ba4c6ca3bc817c7c37f20f1921fe30641a0cf0d30afeb8474bf65657629d8c7",
+    "integrated_loudness_lufs": -23.0,
+    "true_peak_dbfs": -5.8
+  }
+]

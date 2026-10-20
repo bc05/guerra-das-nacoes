@@ -1,0 +1,29 @@
+## Áudio — versão 0.10
+
+Música ambiente: **“A Kind Of Hope” — Scott Buckley**.
+
+'A Kind Of Hope' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
+
+- Fonte oficial: https://www.scottbuckley.com.au/library/a-kind-of-hope/
+- Arquivo original: https://www.scottbuckley.com.au/library/wp-content/uploads/2022/10/AKindOfHope.mp3
+- Licença: Creative Commons Attribution 4.0 International — https://creativecommons.org/licenses/by/4.0/
+- Alterações: conversão do mix completo para OGG/Vorbis, normalização para -23 LUFS e fades curtos na entrada/saída. Não foi usado trecho de outra composição. Crédito também deve permanecer acessível no painel Som do aplicativo. A música inteira toca em loop, em volume inicial de 8%; a transição ocorre na cauda suave da composição.
+- Gravações/vídeos publicados com a trilha devem atribuir Scott Buckley na descrição, conforme orientação do autor.
+
+Efeitos de espada, impactos físicos e passos: **Kenney — Impact Sounds (1.0) e RPG Audio**.
+
+- Fontes oficiais: https://kenney.nl/assets/impact-sounds e https://kenney.nl/assets/rpg-audio
+- Licença dos arquivos de áudio: CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/
+- Cópias dos avisos originais: `Unity/Assets/Audio/Kenney-Impact-Sounds-License.txt` e `Unity/Assets/Audio/Kenney-RPG-Audio-License.txt`.
+- Foram usados trechos de `knifeSlice`, `drawKnife2`, `impactPunch`, `impactMetal_light`, `impactWood_heavy` e `footstep_concrete`. Algumas variantes foram mixadas, normalizadas, filtradas ou desaceleradas. Nomes exatos e hashes dos arquivos preparados constam em `Unity/Assets/Audio/AudioManifest.json`.
+
+Vozes de monstros: **Ogrebane — Monster Sound Pack, Volume 1** (arquivo original publicado como `monster-sounds-volume-2.zip`).
+
+- Fonte da publicação do autor: https://opengameart.org/content/monster-sound-pack-volume-1
+- Download: https://opengameart.org/sites/default/files/monster-sounds-volume-2.zip
+- Licença declarada na publicação: CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/
+- Sons selecionados: `Monster-1`, `Monster-2`, `Monster-3`, `Monster-4`, `Monster-5`, `Monster-6`, `monster-11` e `monster-14`. Foram normalizados e filtrados; as antecipações/dor têm pitch 10% mais grave, e as mortes têm pitch 25% mais grave e uma reflexão curta.
+
+Camadas de ar das espadas, golpe de braço, vento ambiente, sons de proteção, cura, fúria e evolução foram sintetizadas originalmente para este protótipo, sem amostras externas. O gerador reproduzível usa ruído, filtros e harmônicos. O vento possui sobreposição de quatro segundos para eliminar cliques no loop.
+
+Fontes e licenças verificadas em 18/10/2026. Não há indicação de endosso dos autores ao jogo.

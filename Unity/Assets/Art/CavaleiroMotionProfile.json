@@ -1,0 +1,723 @@
+{
+  "origin": "Mixamo",
+  "source_pack": "SwordAndShieldPack",
+  "bake_fps": 30,
+  "sample_rate_hz": 120,
+  "root_motion": false,
+  "clips": {
+    "Idle": {
+      "source_file": "sword and shield idle (4).fbx",
+      "source_sha256": "f5371f3ef6f29060c3ecbbcecd4e11340b6ef26193927c976234fd450bc47bde",
+      "source_action": "Armature|mixamo.com|Layer0",
+      "source_fps": 30.0,
+      "source_frame_range": [
+        1.0,
+        76.0
+      ],
+      "source_duration_s": 2.5,
+      "duration_s": 2.5,
+      "first_frame": 1,
+      "last_frame": 76.0,
+      "loop": true,
+      "retarget_leg_scale": 0.9000353458785597,
+      "source_forward_travel_m": -0.00022676028311252594,
+      "contact_intervals_s": {
+        "R": [
+          [
+            0.0,
+            2.5
+          ]
+        ],
+        "L": [
+          [
+            0.0,
+            2.5
+          ]
+        ]
+      },
+      "contact_method": "final_keyed_actual_boot_clearance",
+      "contact_diagnostics": {
+        "measurement": "final_keyed_action_120Hz_actual_boot_sole",
+        "support_threshold_m": 0.008,
+        "minimum_sole_height_m": 0.0019938796758651733,
+        "target_reference": "retargeted_contact_targets_after_declared_seam_filters_and_guard_bridges",
+        "maximum_target_ankle_ik_error_m": 0.0004029957180752575,
+        "maximum_source_target_ankle_error_m": 0.0004029957180752575,
+        "maximum_native_source_ankle_difference_m": 0.0004029957180752575,
+        "support_world_ankle_motion": {
+          "R": [
+            {
+              "start_s": 0.0,
+              "end_s": 2.5,
+              "central_ankle_planar_excursion_m": 0.00019522236883314883,
+              "central_ankle_planar_rms_m": 9.757793125448615e-05
+            }
+          ],
+          "L": [
+            {
+              "start_s": 0.0,
+              "end_s": 2.5,
+              "central_ankle_planar_excursion_m": 0.00010828275107748347,
+              "central_ankle_planar_rms_m": 4.910899748948889e-05
+            }
+          ]
+        },
+        "slide_note": "Ankle excursion includes heel/toe rocking; use central support and visual review."
+      },
+      "fixed_attack_feet": false
+    },
+    "Walk": {
+      "source_file": "sword and shield walk.fbx",
+      "source_sha256": "dd24d91e0202412ddff813978b96b32e47f10df4f271f0f5f5c61aadcda1503c",
+      "source_action": "Armature|mixamo.com|Layer0",
+      "source_fps": 30.0,
+      "source_frame_range": [
+        1.0,
+        34.0
+      ],
+      "source_duration_s": 1.1,
+      "duration_s": 1.1,
+      "first_frame": 1,
+      "last_frame": 34.0,
+      "loop": true,
+      "retarget_leg_scale": 0.9000353458785597,
+      "source_forward_travel_m": 1.6519392728805542,
+      "contact_intervals_s": {
+        "R": [
+          [
+            0.0,
+            0.03333333333333334
+          ],
+          [
+            0.8583333333333334,
+            1.1
+          ]
+        ],
+        "L": [
+          [
+            0.30833333333333335,
+            0.7583333333333334
+          ],
+          [
+            0.7750000000000001,
+            0.8083333333333335
+          ]
+        ]
+      },
+      "contact_method": "final_keyed_actual_boot_clearance",
+      "contact_diagnostics": {
+        "measurement": "final_keyed_action_120Hz_actual_boot_sole",
+        "support_threshold_m": 0.008,
+        "minimum_sole_height_m": 0.002015039324760437,
+        "target_reference": "retargeted_contact_targets_after_declared_seam_filters_and_guard_bridges",
+        "maximum_target_ankle_ik_error_m": 9.221209894369181e-05,
+        "maximum_source_target_ankle_error_m": 9.221209894369181e-05,
+        "maximum_native_source_ankle_difference_m": 0.0034138456929931607,
+        "support_world_ankle_motion": {
+          "R": [
+            {
+              "start_s": 0.0,
+              "end_s": 0.03333333333333334,
+              "central_ankle_planar_excursion_m": 0.0009622006448991862,
+              "central_ankle_planar_rms_m": 0.0006385923768819239
+            },
+            {
+              "start_s": 0.8583333333333334,
+              "end_s": 1.1,
+              "central_ankle_planar_excursion_m": 0.015688056044243327,
+              "central_ankle_planar_rms_m": 0.010356319224456926
+            }
+          ],
+          "L": [
+            {
+              "start_s": 0.30833333333333335,
+              "end_s": 0.7583333333333334,
+              "central_ankle_planar_excursion_m": 0.008048820719340051,
+              "central_ankle_planar_rms_m": 0.003393620377033431
+            },
+            {
+              "start_s": 0.7750000000000001,
+              "end_s": 0.8083333333333335,
+              "central_ankle_planar_excursion_m": 0.006639309330135273,
+              "central_ankle_planar_rms_m": 0.00427722285689098
+            }
+          ]
+        },
+        "slide_note": "Ankle excursion includes heel/toe rocking; use central support and visual review."
+      },
+      "fixed_attack_feet": false,
+      "cycle_distance_m": 1.4868037348374261,
+      "seam_smoothing": {
+        "method": "localized_periodic_quaternion_filter_with_contact_preserving_leg_ik",
+        "half_window_s": 0.05,
+        "gaussian_sigma_s": 0.015,
+        "changed_samples": 11,
+        "maximum_ankle_change_m": 0.003413694250189796,
+        "maximum_intentional_target_offset_m": 0.0034136085683855698
+      },
+      "knee_pole_stabilization": {
+        "method": "captured_thigh_plane_fallback_for_nearly_straight_source_leg",
+        "source_bend_blend_threshold_m": 0.05333957601529311,
+        "minimum_source_knee_offset_m": 0.010679319045567553
+      }
+    },
+    "Run": {
+      "source_file": "sword and shield run.fbx",
+      "source_sha256": "750fb302bcfe57c766b14f74dbe62c76d3a1cae01aec2d36593e83b88896b935",
+      "source_action": "Armature|mixamo.com|Layer0",
+      "source_fps": 30.0,
+      "source_frame_range": [
+        1.0,
+        22.0
+      ],
+      "source_duration_s": 0.7,
+      "duration_s": 0.7,
+      "first_frame": 1,
+      "last_frame": 22.0,
+      "loop": true,
+      "retarget_leg_scale": 0.9000353458785597,
+      "source_forward_travel_m": 2.902289390563965,
+      "contact_intervals_s": {
+        "R": [
+          [
+            0.0,
+            0.041666666666666664
+          ],
+          [
+            0.5583333333333333,
+            0.7
+          ]
+        ],
+        "L": [
+          [
+            0.20833333333333331,
+            0.37499999999999994
+          ]
+        ]
+      },
+      "contact_method": "final_keyed_actual_boot_clearance",
+      "contact_diagnostics": {
+        "measurement": "final_keyed_action_120Hz_actual_boot_sole",
+        "support_threshold_m": 0.008,
+        "minimum_sole_height_m": 0.001999899744987488,
+        "target_reference": "retargeted_contact_targets_after_declared_seam_filters_and_guard_bridges",
+        "maximum_target_ankle_ik_error_m": 5.383012255486382e-07,
+        "maximum_source_target_ankle_error_m": 5.383012255486382e-07,
+        "maximum_native_source_ankle_difference_m": 0.017942265697067087,
+        "support_world_ankle_motion": {
+          "R": [
+            {
+              "start_s": 0.0,
+              "end_s": 0.041666666666666664,
+              "central_ankle_planar_excursion_m": 0.014490818567019873,
+              "central_ankle_planar_rms_m": 0.008711647294576887
+            },
+            {
+              "start_s": 0.5583333333333333,
+              "end_s": 0.7,
+              "central_ankle_planar_excursion_m": 0.007077627102020286,
+              "central_ankle_planar_rms_m": 0.0029083674278414587
+            }
+          ],
+          "L": [
+            {
+              "start_s": 0.20833333333333331,
+              "end_s": 0.37499999999999994,
+              "central_ankle_planar_excursion_m": 0.00745559188921564,
+              "central_ankle_planar_rms_m": 0.002449518650450347
+            }
+          ]
+        },
+        "slide_note": "Ankle excursion includes heel/toe rocking; use central support and visual review."
+      },
+      "fixed_attack_feet": false,
+      "cycle_distance_m": 2.612163035475912,
+      "seam_smoothing": {
+        "method": "localized_periodic_quaternion_filter_with_contact_preserving_leg_ik",
+        "half_window_s": 0.05,
+        "gaussian_sigma_s": 0.015,
+        "changed_samples": 11,
+        "maximum_ankle_change_m": 0.017941951035699205,
+        "maximum_intentional_target_offset_m": 0.017942061693721145
+      },
+      "knee_pole_stabilization": {
+        "method": "captured_thigh_plane_fallback_for_nearly_straight_source_leg",
+        "source_bend_blend_threshold_m": 0.05333957601529311,
+        "minimum_source_knee_offset_m": 0.01087707483603238
+      }
+    },
+    "Attack": {
+      "source_file": "sword and shield slash (3).fbx",
+      "source_sha256": "b61bb8d195035ab9b985769cc7a8a9ad18fa3e14f1f06ce0d36339e3ec85faa4",
+      "source_action": "Armature|mixamo.com|Layer0",
+      "source_fps": 30.0,
+      "source_frame_range": [
+        1.0,
+        48.0
+      ],
+      "source_duration_s": 1.5666666666666667,
+      "duration_s": 0.6,
+      "first_frame": 1,
+      "last_frame": 19.0,
+      "loop": false,
+      "retarget_leg_scale": 0.9000353458785597,
+      "source_forward_travel_m": 0.0073659662157297134,
+      "contact_intervals_s": {
+        "R": [
+          [
+            0.0,
+            0.6
+          ]
+        ],
+        "L": [
+          [
+            0.0,
+            0.6
+          ]
+        ]
+      },
+      "contact_method": "final_keyed_actual_boot_clearance",
+      "contact_diagnostics": {
+        "measurement": "final_keyed_action_120Hz_actual_boot_sole",
+        "support_threshold_m": 0.008,
+        "minimum_sole_height_m": 0.0020002275705337524,
+        "target_reference": "retargeted_contact_targets_after_declared_seam_filters_and_guard_bridges",
+        "maximum_target_ankle_ik_error_m": 3.0719530773294425e-07,
+        "maximum_source_target_ankle_error_m": 3.0719530773294425e-07,
+        "maximum_native_source_ankle_difference_m": null,
+        "support_world_ankle_motion": {
+          "R": [
+            {
+              "start_s": 0.0,
+              "end_s": 0.6,
+              "central_ankle_planar_excursion_m": 1.2644054553268208e-07,
+              "central_ankle_planar_rms_m": 1.0914229236121304e-07
+            }
+          ],
+          "L": [
+            {
+              "start_s": 0.0,
+              "end_s": 0.6,
+              "central_ankle_planar_excursion_m": 2.1073424255447017e-07,
+              "central_ankle_planar_rms_m": 9.588056124926772e-08
+            }
+          ]
+        },
+        "slide_note": "Ankle excursion includes heel/toe rocking; use central support and visual review.",
+        "native_source_leg_fidelity": "not_applicable_preserved_idle_guard_lower_body"
+      },
+      "fixed_attack_feet": true,
+      "impact_time_s": 0.13,
+      "source_contact_progress": 0.53,
+      "animation_layer": "captured_upper_body_on_idle_guard_base",
+      "preserved_idle_bones": [
+        "Root",
+        "Pelvis",
+        "Thigh.R",
+        "Thigh.L",
+        "Shin.R",
+        "Shin.L",
+        "Foot.R",
+        "Foot.L"
+      ],
+      "captured_bones": [
+        "Spine",
+        "Chest",
+        "Head",
+        "UpperArm.R",
+        "Forearm.R",
+        "Hand.R",
+        "UpperArm.L",
+        "Forearm.L",
+        "Hand.L"
+      ],
+      "guard_entry_duration_s": 0.125,
+      "guard_recovery_duration_s": 0.2,
+      "guard_transition_method": "fixed_world_quaternion_hermite_C1_with_sole_preserving_ik",
+      "preparation_source_duration_s": 0.18,
+      "presentation_preparation_start_frame": 20.51,
+      "source_contact_selection": "reviewed Slash(3) fitted blade maximum forward reach; source frame about 25.9 of 1..48",
+      "source_contact_frame": 25.91,
+      "source_contact_timing_error_s": 0.0,
+      "captured_active_window_s": [
+        0.125,
+        0.39999999999999997
+      ],
+      "captured_active_source_frame_range": [
+        25.69046264612474,
+        38.45825461670702
+      ],
+      "preparation_method": "C1_guard_to_captured_preimpact_pose_and_velocity",
+      "recovery_method": "C1_fixed_captured_pose_and_velocity_to_guard",
+      "transition_orientation_space": "world_orientation_except_anatomical_local_wrists",
+      "transition_foot_adaptation": "world_ankle_hermite_bridge_with_sole_clearance_and_up_to_30mm_step_when_planted_positions_differ"
+    },
+    "Attack2": {
+      "source_file": "sword and shield slash.fbx",
+      "source_sha256": "328507dee32f53521b041058403fc62a61ea2a5110de55c26c3d9b73d135e190",
+      "source_action": "Armature|mixamo.com|Layer0",
+      "source_fps": 30.0,
+      "source_original_frame_range": [
+        1.0,
+        46.0
+      ],
+      "source_frame_range": [
+        1,
+        29
+      ],
+      "source_duration_s": 0.9333333333333333,
+      "duration_s": 0.6,
+      "first_frame": 1,
+      "last_frame": 19.0,
+      "loop": false,
+      "retarget_leg_scale": 0.9000353458785597,
+      "source_forward_travel_m": 0.5021916031837463,
+      "attack_style": "descending_cut",
+      "impact_time_s": 0.13,
+      "guard_entry_duration_s": 0.125,
+      "guard_recovery_duration_s": 0.2833333333333333,
+      "guard_transition_method": "fixed_world_quaternion_hermite_C1_with_sole_preserving_ik",
+      "preparation_source_duration_s": 0.18,
+      "presentation_preparation_start_frame": 14.1,
+      "source_contact_progress": 0.6607142857142857,
+      "source_contact_frame": 19.5,
+      "source_contact_marker": "SwordTip",
+      "source_contact_selection": "maximum fitted marker forward reach in active cropped source interval",
+      "animation_layer": "captured_upper_body_on_idle_guard_base",
+      "preserved_idle_bones": [
+        "Root",
+        "Pelvis",
+        "Thigh.R",
+        "Thigh.L",
+        "Shin.R",
+        "Shin.L",
+        "Foot.R",
+        "Foot.L"
+      ],
+      "captured_bones": [
+        "Spine",
+        "Chest",
+        "Head",
+        "UpperArm.R",
+        "Forearm.R",
+        "Hand.R",
+        "UpperArm.L",
+        "Forearm.L",
+        "Hand.L"
+      ],
+      "fixed_attack_feet": true,
+      "contact_intervals_s": {
+        "R": [
+          [
+            0.0,
+            0.6
+          ]
+        ],
+        "L": [
+          [
+            0.0,
+            0.6
+          ]
+        ]
+      },
+      "contact_method": "final_keyed_actual_boot_clearance",
+      "contact_diagnostics": {
+        "measurement": "final_keyed_action_120Hz_actual_boot_sole",
+        "support_threshold_m": 0.008,
+        "minimum_sole_height_m": 0.0020002275705337524,
+        "target_reference": "retargeted_contact_targets_after_declared_seam_filters_and_guard_bridges",
+        "maximum_target_ankle_ik_error_m": 4.1275140596820535e-07,
+        "maximum_source_target_ankle_error_m": 4.1275140596820535e-07,
+        "maximum_native_source_ankle_difference_m": null,
+        "support_world_ankle_motion": {
+          "R": [
+            {
+              "start_s": 0.0,
+              "end_s": 0.6,
+              "central_ankle_planar_excursion_m": 3.03925246810483e-07,
+              "central_ankle_planar_rms_m": 1.5702120486814565e-07
+            }
+          ],
+          "L": [
+            {
+              "start_s": 0.0,
+              "end_s": 0.6,
+              "central_ankle_planar_excursion_m": 6.3574892222857e-07,
+              "central_ankle_planar_rms_m": 3.275182816328863e-07
+            }
+          ]
+        },
+        "slide_note": "Ankle excursion includes heel/toe rocking; use central support and visual review.",
+        "native_source_leg_fidelity": "not_applicable_preserved_idle_guard_lower_body"
+      },
+      "body_spin_360": false,
+      "gameplay_coverage_degrees": 130,
+      "source_contact_timing_error_s": 0.0,
+      "captured_active_window_s": [
+        0.125,
+        0.31666666666666665
+      ],
+      "captured_active_source_frame_range": [
+        19.35862262661864,
+        23.746582107155255
+      ],
+      "preparation_method": "C1_guard_to_captured_preimpact_pose_and_velocity",
+      "recovery_method": "C1_fixed_captured_pose_and_velocity_to_guard",
+      "transition_orientation_space": "world_orientation_except_anatomical_local_wrists",
+      "transition_foot_adaptation": "world_ankle_hermite_bridge_with_sole_clearance_and_up_to_30mm_step_when_planted_positions_differ"
+    },
+    "Attack3": {
+      "source_file": "sword and shield attack (4).fbx",
+      "source_sha256": "178551d0d159ea1918fd52ae33187adb5cc36e0632f440e7305a40149fe54649",
+      "source_action": "Armature|mixamo.com|Layer0",
+      "source_fps": 30.0,
+      "source_original_frame_range": [
+        1.0,
+        31.0
+      ],
+      "source_frame_range": [
+        1,
+        31
+      ],
+      "source_duration_s": 1.0,
+      "duration_s": 0.6,
+      "first_frame": 1,
+      "last_frame": 19.0,
+      "loop": false,
+      "retarget_leg_scale": 0.9000353458785597,
+      "source_forward_travel_m": 0.003509881440550089,
+      "attack_style": "high_cut",
+      "impact_time_s": 0.13,
+      "guard_entry_duration_s": 0.125,
+      "guard_recovery_duration_s": 0.2,
+      "guard_transition_method": "fixed_world_quaternion_hermite_C1_with_sole_preserving_ik",
+      "preparation_source_duration_s": 0.18,
+      "presentation_preparation_start_frame": 10.6,
+      "source_contact_progress": 0.5,
+      "source_contact_frame": 16.0,
+      "source_contact_marker": "SwordBase",
+      "source_contact_selection": "maximum fitted marker forward reach in active cropped source interval",
+      "animation_layer": "captured_full_body",
+      "preserved_idle_bones": [],
+      "captured_bones": [
+        "Pelvis",
+        "Spine",
+        "Chest",
+        "Head",
+        "UpperArm.R",
+        "Forearm.R",
+        "Hand.R",
+        "UpperArm.L",
+        "Forearm.L",
+        "Hand.L",
+        "Thigh.R",
+        "Shin.R",
+        "Foot.R",
+        "Thigh.L",
+        "Shin.L",
+        "Foot.L"
+      ],
+      "fixed_attack_feet": false,
+      "contact_intervals_s": {
+        "R": [
+          [
+            0.25833333333333336,
+            0.6
+          ]
+        ],
+        "L": [
+          [
+            0.0,
+            0.016666666666666666
+          ],
+          [
+            0.10833333333333332,
+            0.20833333333333331
+          ],
+          [
+            0.575,
+            0.6
+          ]
+        ]
+      },
+      "contact_method": "final_keyed_actual_boot_clearance",
+      "contact_diagnostics": {
+        "measurement": "final_keyed_action_120Hz_actual_boot_sole",
+        "support_threshold_m": 0.008,
+        "minimum_sole_height_m": 0.0020002275705337524,
+        "target_reference": "retargeted_contact_targets_after_declared_seam_filters_and_guard_bridges",
+        "maximum_target_ankle_ik_error_m": 7.614493370056152e-06,
+        "maximum_source_target_ankle_error_m": 7.614493370056152e-06,
+        "maximum_native_source_ankle_difference_m": 0.07963492457931105,
+        "support_world_ankle_motion": {
+          "R": [
+            {
+              "start_s": 0.25833333333333336,
+              "end_s": 0.6,
+              "central_ankle_planar_excursion_m": 0.0049013575406349165,
+              "central_ankle_planar_rms_m": 0.002049845878191591
+            }
+          ],
+          "L": [
+            {
+              "start_s": 0.0,
+              "end_s": 0.016666666666666666,
+              "central_ankle_planar_excursion_m": 0.0039026772970807413,
+              "central_ankle_planar_rms_m": 0.0023294087265617754
+            },
+            {
+              "start_s": 0.10833333333333332,
+              "end_s": 0.20833333333333331,
+              "central_ankle_planar_excursion_m": 0.001077826246869217,
+              "central_ankle_planar_rms_m": 0.0006779167823859227
+            },
+            {
+              "start_s": 0.575,
+              "end_s": 0.6,
+              "central_ankle_planar_excursion_m": 0.0005140412037894569,
+              "central_ankle_planar_rms_m": 0.00037155697870952384
+            }
+          ]
+        },
+        "slide_note": "Ankle excursion includes heel/toe rocking; use central support and visual review."
+      },
+      "body_spin_360": false,
+      "gameplay_coverage_degrees": 130,
+      "source_contact_timing_error_s": 0.0,
+      "captured_active_window_s": [
+        0.125,
+        0.39999999999999997
+      ],
+      "captured_active_source_frame_range": [
+        15.81746581385896,
+        24.82145188378761
+      ],
+      "preparation_method": "C1_guard_to_captured_preimpact_pose_and_velocity",
+      "recovery_method": "C1_fixed_captured_pose_and_velocity_to_guard",
+      "transition_orientation_space": "world_orientation_except_anatomical_local_wrists",
+      "transition_foot_adaptation": "world_ankle_hermite_bridge_with_sole_clearance_and_up_to_30mm_step_when_planted_positions_differ"
+    },
+    "HeavyAttack": {
+      "source_file": "sword and shield slash (5).fbx",
+      "source_sha256": "341535281b304abbd7987db89221808aff52dcddcd048596651e02b779098e06",
+      "source_action": "Armature|mixamo.com|Layer0",
+      "source_fps": 30.0,
+      "source_original_frame_range": [
+        1.0,
+        42.0
+      ],
+      "source_frame_range": [
+        1,
+        30
+      ],
+      "source_duration_s": 0.9666666666666667,
+      "duration_s": 0.6,
+      "first_frame": 1,
+      "last_frame": 19.0,
+      "loop": false,
+      "retarget_leg_scale": 0.9000353458785597,
+      "source_forward_travel_m": 0.3698272109031677,
+      "attack_style": "wide_cut",
+      "impact_time_s": 0.13,
+      "guard_entry_duration_s": 0.125,
+      "guard_recovery_duration_s": 0.2833333333333333,
+      "guard_transition_method": "fixed_world_quaternion_hermite_C1_with_sole_preserving_ik",
+      "preparation_source_duration_s": 0.18,
+      "presentation_preparation_start_frame": 13.600000000000001,
+      "source_contact_progress": 0.6206896551724138,
+      "source_contact_frame": 19.0,
+      "source_contact_marker": "SwordTip",
+      "source_contact_selection": "maximum fitted marker forward reach in active cropped source interval",
+      "animation_layer": "captured_upper_body_on_idle_guard_base",
+      "preserved_idle_bones": [
+        "Root",
+        "Pelvis",
+        "Thigh.R",
+        "Thigh.L",
+        "Shin.R",
+        "Shin.L",
+        "Foot.R",
+        "Foot.L"
+      ],
+      "captured_bones": [
+        "Spine",
+        "Chest",
+        "Head",
+        "UpperArm.R",
+        "Forearm.R",
+        "Hand.R",
+        "UpperArm.L",
+        "Forearm.L",
+        "Hand.L"
+      ],
+      "fixed_attack_feet": true,
+      "contact_intervals_s": {
+        "R": [
+          [
+            0.0,
+            0.6
+          ]
+        ],
+        "L": [
+          [
+            0.0,
+            0.6
+          ]
+        ]
+      },
+      "contact_method": "final_keyed_actual_boot_clearance",
+      "contact_diagnostics": {
+        "measurement": "final_keyed_action_120Hz_actual_boot_sole",
+        "support_threshold_m": 0.008,
+        "minimum_sole_height_m": 0.0020002275705337524,
+        "target_reference": "retargeted_contact_targets_after_declared_seam_filters_and_guard_bridges",
+        "maximum_target_ankle_ik_error_m": 3.2985126407710693e-07,
+        "maximum_source_target_ankle_error_m": 3.2985126407710693e-07,
+        "maximum_native_source_ankle_difference_m": null,
+        "support_world_ankle_motion": {
+          "R": [
+            {
+              "start_s": 0.0,
+              "end_s": 0.6,
+              "central_ankle_planar_excursion_m": 1.228781230931777e-07,
+              "central_ankle_planar_rms_m": 7.082087108922059e-08
+            }
+          ],
+          "L": [
+            {
+              "start_s": 0.0,
+              "end_s": 0.6,
+              "central_ankle_planar_excursion_m": 2.905726432800293e-07,
+              "central_ankle_planar_rms_m": 1.2543799360320346e-07
+            }
+          ]
+        },
+        "slide_note": "Ankle excursion includes heel/toe rocking; use central support and visual review.",
+        "native_source_leg_fidelity": "not_applicable_preserved_idle_guard_lower_body"
+      },
+      "body_spin_360": false,
+      "gameplay_coverage_degrees": 360,
+      "source_contact_timing_error_s": 0.0,
+      "captured_active_window_s": [
+        0.125,
+        0.31666666666666665
+      ],
+      "captured_active_source_frame_range": [
+        18.845927077521402,
+        23.812126573726808
+      ],
+      "preparation_method": "C1_guard_to_captured_preimpact_pose_and_velocity",
+      "recovery_method": "C1_fixed_captured_pose_and_velocity_to_guard",
+      "transition_orientation_space": "world_orientation_except_anatomical_local_wrists",
+      "transition_foot_adaptation": "world_ankle_hermite_bridge_with_sole_clearance_and_up_to_30mm_step_when_planted_positions_differ"
+    }
+  },
+  "walk_cycle_m": 1.4868037348374261,
+  "run_cycle_m": 2.612163035475912,
+  "basic_attack_clips": [
+    "Attack",
+    "Attack2",
+    "Attack3"
+  ],
+  "heavy_attack_clip": "HeavyAttack"
+}
