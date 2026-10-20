@@ -1,0 +1,41 @@
+{
+  "verified_on": "2026-10-18",
+  "asset": "Aksel skin",
+  "author": "Mindfront",
+  "license": "CC0-1.0",
+  "uv": "Original MakeHuman mh08 UV, preserved for the exported head and hands",
+  "base_obj_sha256": "8e761e6624b8f54536409135d1636da63b32486a90d4897f84e121d144f6fb4c",
+  "files": [
+    {
+      "source": "https://files.makehumancommunity.org/asset_packs/skins02/skins02_cc0.zip",
+      "archive_entry": "skins/mindfront_aksel_skin/mindfront_aksel_skin.mhmat",
+      "size": 982,
+      "sha256": "ed79cb17edbb5929dd83474a46f045df7d5f31d0b9c1156c87f563bd2bbbfab6",
+      "license": "CC0-1.0",
+      "author": "Mindfront",
+      "license_evidence": "https://static.makehumancommunity.org/assets/assetpacks/skins02.html",
+      "evaluation_file": "work/base-skin/mindfront_aksel_skin.mhmat"
+    },
+    {
+      "source": "https://files.makehumancommunity.org/asset_packs/skins02/skins02_cc0.zip",
+      "archive_entry": "skins/mindfront_aksel_skin/Aksel_Skin_diffuse.png",
+      "size": 4247107,
+      "sha256": "268ee6d1ea9665f8050d040c7b47971884428628021418ae52f68912859f5e60",
+      "license": "CC0-1.0",
+      "author": "Mindfront",
+      "license_evidence": "https://static.makehumancommunity.org/assets/assetpacks/skins02.html",
+      "evaluation_file": "work/base-skin/Aksel_Skin_diffuse.png"
+    },
+    {
+      "source": "https://files.makehumancommunity.org/asset_packs/skins02/skins02_cc0.zip",
+      "archive_entry": "skins/mindfront_aksel_skin/Aksel_Skin_NRM.png",
+      "size": 4706189,
+      "sha256": "2bf3632a4bfb1631d9ae15568c7de5c7254c780e5168f1546827f32d50f5212d",
+      "license": "CC0-1.0",
+      "author": "Mindfront",
+      "license_evidence": "https://static.makehumancommunity.org/assets/assetpacks/skins02.html",
+      "evaluation_file": "work/base-skin/Aksel_Skin_NRM.png"
+    }
+  ],
+  "status": "Not used in the game; superseded by MakeHumanYoungMaleSkin"
+}

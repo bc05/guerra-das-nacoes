@@ -1,0 +1,277 @@
+{
+  "origin": "Adobe Mixamo",
+  "source_url": "https://www.mixamo.com/",
+  "pack": "Sword and Shield Pack",
+  "pack_animation_count": 49,
+  "download_date": "2026-10-19",
+  "export_settings": {
+    "format": "FBX Binary",
+    "pose": "T-pose",
+    "fps_selected": 60,
+    "keyframe_reduction": "none",
+    "character": "Default Character / X Bot"
+  },
+  "license_reference": "https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html",
+  "archive_sha256": "f3c2a11925b10cb10d8a20468748e0168b34b7fc551751e5c70ab175330003eb",
+  "files": [
+    {
+      "file": "X Bot.fbx",
+      "sha256": "e3bc70d83530e86e343b08649b7c437d447902272023b5c703809c44855ab791",
+      "bytes": 1750033
+    },
+    {
+      "file": "sword and shield walk.fbx",
+      "sha256": "dd24d91e0202412ddff813978b96b32e47f10df4f271f0f5f5c61aadcda1503c",
+      "bytes": 372321
+    },
+    {
+      "file": "sword and shield run.fbx",
+      "sha256": "750fb302bcfe57c766b14f74dbe62c76d3a1cae01aec2d36593e83b88896b935",
+      "bytes": 326817
+    },
+    {
+      "file": "sword and shield idle (4).fbx",
+      "sha256": "f5371f3ef6f29060c3ecbbcecd4e11340b6ef26193927c976234fd450bc47bde",
+      "bytes": 458145
+    },
+    {
+      "file": "sword and shield slash (3).fbx",
+      "sha256": "b61bb8d195035ab9b985769cc7a8a9ad18fa3e14f1f06ce0d36339e3ec85faa4",
+      "bytes": 399329
+    },
+    {
+      "file": "sword and shield slash.fbx",
+      "sha256": "328507dee32f53521b041058403fc62a61ea2a5110de55c26c3d9b73d135e190",
+      "bytes": 390401
+    },
+    {
+      "file": "sword and shield attack (4).fbx",
+      "sha256": "178551d0d159ea1918fd52ae33187adb5cc36e0632f440e7305a40149fe54649",
+      "bytes": 350113
+    },
+    {
+      "file": "sword and shield slash (5).fbx",
+      "sha256": "341535281b304abbd7987db89221808aff52dcddcd048596651e02b779098e06",
+      "bytes": 377617
+    }
+  ],
+  "selected_attack_clips": {
+    "Attack": {
+      "source_file": "sword and shield slash (3).fbx",
+      "source_sha256": "b61bb8d195035ab9b985769cc7a8a9ad18fa3e14f1f06ce0d36339e3ec85faa4",
+      "source_frame_range": [
+        1.0,
+        48.0
+      ],
+      "source_duration_s": 1.5666666666666667,
+      "duration_s": 0.6,
+      "impact_time_s": 0.13,
+      "source_contact_progress": 0.53,
+      "source_contact_frame": 25.91,
+      "animation_layer": "captured_upper_body_on_idle_guard_base",
+      "preserved_idle_bones": [
+        "Root",
+        "Pelvis",
+        "Thigh.R",
+        "Thigh.L",
+        "Shin.R",
+        "Shin.L",
+        "Foot.R",
+        "Foot.L"
+      ],
+      "captured_bones": [
+        "Spine",
+        "Chest",
+        "Head",
+        "UpperArm.R",
+        "Forearm.R",
+        "Hand.R",
+        "UpperArm.L",
+        "Forearm.L",
+        "Hand.L"
+      ],
+      "guard_entry_duration_s": 0.125,
+      "guard_recovery_duration_s": 0.2,
+      "guard_transition_method": "fixed_world_quaternion_hermite_C1_with_sole_preserving_ik",
+      "preparation_source_duration_s": 0.18,
+      "presentation_preparation_start_frame": 20.51,
+      "captured_active_window_s": [
+        0.125,
+        0.39999999999999997
+      ],
+      "captured_active_source_frame_range": [
+        25.69046264612474,
+        38.45825461670702
+      ],
+      "preparation_method": "C1_guard_to_captured_preimpact_pose_and_velocity",
+      "recovery_method": "C1_fixed_captured_pose_and_velocity_to_guard",
+      "transition_orientation_space": "world_orientation_except_anatomical_local_wrists",
+      "transition_foot_adaptation": "world_ankle_hermite_bridge_with_sole_clearance_and_up_to_30mm_step_when_planted_positions_differ",
+      "source_contact_timing_error_s": 0.0
+    },
+    "Attack2": {
+      "source_file": "sword and shield slash.fbx",
+      "source_sha256": "328507dee32f53521b041058403fc62a61ea2a5110de55c26c3d9b73d135e190",
+      "source_frame_range": [
+        1,
+        29
+      ],
+      "source_duration_s": 0.9333333333333333,
+      "duration_s": 0.6,
+      "impact_time_s": 0.13,
+      "source_contact_progress": 0.6607142857142857,
+      "source_contact_frame": 19.5,
+      "source_contact_marker": "SwordTip",
+      "animation_layer": "captured_upper_body_on_idle_guard_base",
+      "preserved_idle_bones": [
+        "Root",
+        "Pelvis",
+        "Thigh.R",
+        "Thigh.L",
+        "Shin.R",
+        "Shin.L",
+        "Foot.R",
+        "Foot.L"
+      ],
+      "captured_bones": [
+        "Spine",
+        "Chest",
+        "Head",
+        "UpperArm.R",
+        "Forearm.R",
+        "Hand.R",
+        "UpperArm.L",
+        "Forearm.L",
+        "Hand.L"
+      ],
+      "gameplay_coverage_degrees": 130,
+      "guard_entry_duration_s": 0.125,
+      "guard_recovery_duration_s": 0.2833333333333333,
+      "guard_transition_method": "fixed_world_quaternion_hermite_C1_with_sole_preserving_ik",
+      "preparation_source_duration_s": 0.18,
+      "presentation_preparation_start_frame": 14.1,
+      "captured_active_window_s": [
+        0.125,
+        0.31666666666666665
+      ],
+      "captured_active_source_frame_range": [
+        19.35862262661864,
+        23.746582107155255
+      ],
+      "preparation_method": "C1_guard_to_captured_preimpact_pose_and_velocity",
+      "recovery_method": "C1_fixed_captured_pose_and_velocity_to_guard",
+      "transition_orientation_space": "world_orientation_except_anatomical_local_wrists",
+      "transition_foot_adaptation": "world_ankle_hermite_bridge_with_sole_clearance_and_up_to_30mm_step_when_planted_positions_differ",
+      "source_contact_timing_error_s": 0.0
+    },
+    "Attack3": {
+      "source_file": "sword and shield attack (4).fbx",
+      "source_sha256": "178551d0d159ea1918fd52ae33187adb5cc36e0632f440e7305a40149fe54649",
+      "source_frame_range": [
+        1,
+        31
+      ],
+      "source_duration_s": 1.0,
+      "duration_s": 0.6,
+      "impact_time_s": 0.13,
+      "source_contact_progress": 0.5,
+      "source_contact_frame": 16.0,
+      "source_contact_marker": "SwordBase",
+      "animation_layer": "captured_full_body",
+      "preserved_idle_bones": [],
+      "captured_bones": [
+        "Pelvis",
+        "Spine",
+        "Chest",
+        "Head",
+        "UpperArm.R",
+        "Forearm.R",
+        "Hand.R",
+        "UpperArm.L",
+        "Forearm.L",
+        "Hand.L",
+        "Thigh.R",
+        "Shin.R",
+        "Foot.R",
+        "Thigh.L",
+        "Shin.L",
+        "Foot.L"
+      ],
+      "gameplay_coverage_degrees": 130,
+      "guard_entry_duration_s": 0.125,
+      "guard_recovery_duration_s": 0.2,
+      "guard_transition_method": "fixed_world_quaternion_hermite_C1_with_sole_preserving_ik",
+      "preparation_source_duration_s": 0.18,
+      "presentation_preparation_start_frame": 10.6,
+      "captured_active_window_s": [
+        0.125,
+        0.39999999999999997
+      ],
+      "captured_active_source_frame_range": [
+        15.81746581385896,
+        24.82145188378761
+      ],
+      "preparation_method": "C1_guard_to_captured_preimpact_pose_and_velocity",
+      "recovery_method": "C1_fixed_captured_pose_and_velocity_to_guard",
+      "transition_orientation_space": "world_orientation_except_anatomical_local_wrists",
+      "transition_foot_adaptation": "world_ankle_hermite_bridge_with_sole_clearance_and_up_to_30mm_step_when_planted_positions_differ",
+      "source_contact_timing_error_s": 0.0
+    },
+    "HeavyAttack": {
+      "source_file": "sword and shield slash (5).fbx",
+      "source_sha256": "341535281b304abbd7987db89221808aff52dcddcd048596651e02b779098e06",
+      "source_frame_range": [
+        1,
+        30
+      ],
+      "source_duration_s": 0.9666666666666667,
+      "duration_s": 0.6,
+      "impact_time_s": 0.13,
+      "source_contact_progress": 0.6206896551724138,
+      "source_contact_frame": 19.0,
+      "source_contact_marker": "SwordTip",
+      "animation_layer": "captured_upper_body_on_idle_guard_base",
+      "preserved_idle_bones": [
+        "Root",
+        "Pelvis",
+        "Thigh.R",
+        "Thigh.L",
+        "Shin.R",
+        "Shin.L",
+        "Foot.R",
+        "Foot.L"
+      ],
+      "captured_bones": [
+        "Spine",
+        "Chest",
+        "Head",
+        "UpperArm.R",
+        "Forearm.R",
+        "Hand.R",
+        "UpperArm.L",
+        "Forearm.L",
+        "Hand.L"
+      ],
+      "gameplay_coverage_degrees": 360,
+      "guard_entry_duration_s": 0.125,
+      "guard_recovery_duration_s": 0.2833333333333333,
+      "guard_transition_method": "fixed_world_quaternion_hermite_C1_with_sole_preserving_ik",
+      "preparation_source_duration_s": 0.18,
+      "presentation_preparation_start_frame": 13.600000000000001,
+      "captured_active_window_s": [
+        0.125,
+        0.31666666666666665
+      ],
+      "captured_active_source_frame_range": [
+        18.845927077521402,
+        23.812126573726808
+      ],
+      "preparation_method": "C1_guard_to_captured_preimpact_pose_and_velocity",
+      "recovery_method": "C1_fixed_captured_pose_and_velocity_to_guard",
+      "transition_orientation_space": "world_orientation_except_anatomical_local_wrists",
+      "transition_foot_adaptation": "world_ankle_hermite_bridge_with_sole_clearance_and_up_to_30mm_step_when_planted_positions_differ",
+      "source_contact_timing_error_s": 0.0
+    }
+  },
+  "attack_adaptation_note": "Attack, Attack2 and HeavyAttack retain the existing Idle lower-body guard and retarget captured torso/arms. Attack3 retains captured full-body motion. The active captured swing is bounded by fixed-pose quaternion C1 preparation/recovery bridges; source contact frames and the 0.13 s authoritative impact are preserved. Idle, Walk and Run keys/handles are preserved exactly."
+}

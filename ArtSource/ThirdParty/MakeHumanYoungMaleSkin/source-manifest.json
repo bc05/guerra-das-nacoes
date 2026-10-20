@@ -1,0 +1,30 @@
+{
+  "verified_on": "2026-10-18",
+  "asset": "young_caucasian_male (system asset)",
+  "license": "CC0-1.0",
+  "uv": "Original MakeHuman mh08 UV; no UV changes",
+  "base_obj_sha256": "8e761e6624b8f54536409135d1636da63b32486a90d4897f84e121d144f6fb4c",
+  "normal_map": "None supplied by the official material; no unrelated normal map is retained",
+  "files": [
+    {
+      "source": "https://files.makehumancommunity.org/asset_packs/makehuman_system_assets/makehuman_system_assets_cc0.zip",
+      "archive_entry": "skins/young_caucasian_male/young_lightskinned_male_diffuse.png",
+      "size": 3693828,
+      "sha256": "862a26e335e958b70534cb5f0d7c47ef30ab148a56c42b3e9da969cf76f12963",
+      "license": "CC0-1.0",
+      "license_evidence": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+      "author": "MakeHuman Community (Data Collection AB, Joel Palmius, Jonas Hauquier)",
+      "project_file": "Unity/Assets/Art/ThirdParty/BaseHero/BaseSkin_Albedo.png"
+    },
+    {
+      "source": "https://files.makehumancommunity.org/asset_packs/makehuman_system_assets/makehuman_system_assets_cc0.zip",
+      "archive_entry": "skins/young_caucasian_male/young_caucasian_male.mhmat",
+      "size": 1462,
+      "sha256": "6eda60b07ff2afbde078a2535ef3913593d84e9de92b2eb76c30f396a181fe2e",
+      "license": "CC0-1.0",
+      "license_evidence": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+      "author": "MakeHuman Community (Data Collection AB, Joel Palmius, Jonas Hauquier)",
+      "project_file": "ArtSource/ThirdParty/MakeHumanYoungMaleSkin/young_caucasian_male.mhmat"
+    }
+  ]
+}

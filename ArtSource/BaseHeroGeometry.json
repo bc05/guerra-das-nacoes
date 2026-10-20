@@ -1,0 +1,46 @@
+{
+  "BaseHeroBody": {
+    "vertices": 5800,
+    "polygons": 5706,
+    "materials": [
+      "BaseLinen",
+      "BaseTrousers",
+      "BaseLeather",
+      "BaseSkin"
+    ]
+  },
+  "BaseHeroHead": {
+    "vertices": 5484,
+    "polygons": 5498,
+    "materials": [
+      "BaseSkin",
+      "BaseHair",
+      "BaseEye",
+      "BaseIris"
+    ]
+  },
+  "bones": [
+    "Root",
+    "Pelvis",
+    "Spine",
+    "Chest",
+    "Head",
+    "UpperArm.L",
+    "Forearm.L",
+    "Hand.L",
+    "UpperArm.R",
+    "Forearm.R",
+    "Hand.R",
+    "Thigh.L",
+    "Shin.L",
+    "Foot.L",
+    "Thigh.R",
+    "Shin.R",
+    "Foot.R"
+  ],
+  "source": "MakeHuman base.obj core asset CC0",
+  "excluded_groups": [
+    "helper-genital",
+    "all nude torso/pelvis body polygons"
+  ]
+}

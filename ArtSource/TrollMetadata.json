@@ -1,0 +1,99 @@
+{
+  "height": 3.2,
+  "feet_z": 0,
+  "front": "-Y",
+  "triangles": 6370,
+  "bones": 33,
+  "bone_names": [
+    "Bone.004",
+    "Bone",
+    "Bone.001",
+    "Bone.002",
+    "Bone.003",
+    "shoulder.L",
+    "Braco.L",
+    "forearm.L",
+    "hand.L",
+    "shoulder.R",
+    "Braco.R",
+    "forearm.R",
+    "hand.R",
+    "Perna.L",
+    "shin.L",
+    "foot.L",
+    "foot_tip.L",
+    "Perna.R",
+    "shin.R",
+    "foot.R",
+    "foot_tip.R",
+    "foot_main.L",
+    "roll_IK.L",
+    "pole.L",
+    "sole_inverse.L",
+    "sole.L",
+    "foot_IK.L",
+    "foot_main.R",
+    "roll_IK.R",
+    "pole.R",
+    "sole_inverse.R",
+    "sole.R",
+    "foot_IK.R"
+  ],
+  "action": "TrollIdle",
+  "frames": [
+    1.0,
+    40.0
+  ],
+  "fps": 24,
+  "textures": [
+    {
+      "name": "TrollSkin_Albedo.png",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "TrollSkin_Normal.png",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "TrollSkin_AO.png",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "TrollCloth_Albedo.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "TrollCloth_Normal.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "TrollCloth_AO.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "TrollEyes_Albedo.png",
+      "size": [
+        512,
+        512
+      ]
+    }
+  ]
+}

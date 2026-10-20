@@ -1,0 +1,178 @@
+[
+  {
+    "asset": "rock_moss_set_01",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/rock_moss_set_01/Albedo.png",
+    "source": "rock_moss_set_01_diff_2k.jpg",
+    "transformation": "lossless PNG encoding of original JPEG decoded pixels",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "a578517c3ce6c5600e300da5b0f148a8008f26c544415f57351cf45cfe7b8f88"
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/rock_moss_set_01/Normal.png",
+    "source": "rock_moss_set_01_nor_gl_2k.png",
+    "transformation": "16 to 8 bit RGB PNG for engine import",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "378f245b32588f536ffe9764876adeb85903eed644a391eef9bea956196c2ce8"
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/rock_moss_set_01/AO.png",
+    "source": "rock_moss_set_01_ao_2k.jpg",
+    "transformation": "lossless PNG encoding of original JPEG decoded pixels",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "1c66941bb688d7ce0641b8b73c6d4a1058ee8968b1cf4065aa49ef64a5deb344"
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/rock_moss_set_01/MetallicSmoothness.png",
+    "source": "rock_moss_set_01_rough_2k.jpg",
+    "transformation": "Standard shader: RGB metallic 0, alpha 1 minus roughness",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "ca27f51acef769881f6530d6483f54559b3d47da216bc89bff74f4c30c62232e"
+  },
+  {
+    "asset": "medieval_wall_02",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/medieval_wall_02/Albedo.png",
+    "source": "medieval_wall_02_diff_2k.jpg",
+    "transformation": "lossless PNG encoding of original JPEG decoded pixels",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "21bd41e630c3d7a954e8ea6fe0b15d6048d2c9700884f3e9423f101e39b19806"
+  },
+  {
+    "asset": "medieval_wall_02",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/medieval_wall_02/Normal.png",
+    "source": "medieval_wall_02_nor_gl_2k.png",
+    "transformation": "16 to 8 bit RGB PNG for engine import",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "0a496a75fcce56aaa4dee73ba67ad6c99c78f8c8b3af17ea6f914dbf88807f66"
+  },
+  {
+    "asset": "medieval_wall_02",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/medieval_wall_02/AO.png",
+    "source": "medieval_wall_02_ao_2k.jpg",
+    "transformation": "lossless PNG encoding of original JPEG decoded pixels",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "ed54599d6d1342a7b510ecc713573231978d993233f1a2c1c3e965b506e02cee"
+  },
+  {
+    "asset": "medieval_wall_02",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/medieval_wall_02/MetallicSmoothness.png",
+    "source": "medieval_wall_02_rough_2k.jpg",
+    "transformation": "Standard shader: RGB metallic 0, alpha 1 minus roughness",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "b53024a982ac6d7ed3e27e4638960edd9edd29de6858386f72cd76aa92c07f84"
+  },
+  {
+    "asset": "cobblestone_floor_07",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/cobblestone_floor_07/Albedo.png",
+    "source": "cobblestone_floor_07_diff_2k.jpg",
+    "transformation": "lossless PNG encoding of original JPEG decoded pixels",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "1da6ac59d4d146c30622a8d2d9176a10443e29990386f73f2c4e04306d6e7db3"
+  },
+  {
+    "asset": "cobblestone_floor_07",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/cobblestone_floor_07/Normal.png",
+    "source": "cobblestone_floor_07_nor_gl_2k.png",
+    "transformation": "16 to 8 bit RGB PNG for engine import",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "af23ca11362fb959796fd20d26ccd5498f26f59aec99bbb4e4bf6f3ab5f4df89"
+  },
+  {
+    "asset": "cobblestone_floor_07",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/cobblestone_floor_07/AO.png",
+    "source": "cobblestone_floor_07_ao_2k.jpg",
+    "transformation": "lossless PNG encoding of original JPEG decoded pixels",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "63125c82d9fae3c1c0b1ff02e48853873ec3c7969eebef44a9ec054cf515260b"
+  },
+  {
+    "asset": "cobblestone_floor_07",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/cobblestone_floor_07/MetallicSmoothness.png",
+    "source": "cobblestone_floor_07_rough_2k.jpg",
+    "transformation": "Standard shader: RGB metallic 0, alpha 1 minus roughness",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "53b6b1b683d78b6f67f47a4448e4c1156261b7c98d7a2150ec039f6b6fc0d749"
+  },
+  {
+    "asset": "forest_ground_04",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/forest_ground_04/Albedo.png",
+    "source": "forest_ground_04_diff_2k.jpg",
+    "transformation": "lossless PNG encoding of original JPEG decoded pixels",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "56c6c71605c8c0b2bc346b674b377fb7becd75367f023e0ac24e447ce6e3fad7"
+  },
+  {
+    "asset": "forest_ground_04",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/forest_ground_04/Normal.png",
+    "source": "forest_ground_04_nor_gl_2k.png",
+    "transformation": "16 to 8 bit RGB PNG for engine import",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "ee3d3abdc10fad6a2918af77be22ab3b634882a339c4edaedab4d073de9b14dc"
+  },
+  {
+    "asset": "forest_ground_04",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/forest_ground_04/AO.png",
+    "source": "forest_ground_04_ao_2k.jpg",
+    "transformation": "lossless PNG encoding of original JPEG decoded pixels",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "32bb072238dbd2c59e9e64af305af8a7690ccbfd6834320e8370c74fd26939ad"
+  },
+  {
+    "asset": "forest_ground_04",
+    "file": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/UnityReady/forest_ground_04/MetallicSmoothness.png",
+    "source": "forest_ground_04_rough_2k.jpg",
+    "transformation": "Standard shader: RGB metallic 0, alpha 1 minus roughness",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "sha256": "6f03331c640b2e1c889831bacf8c7d7be4925768a0ef9c093bb91fb71837d52a"
+  }
+]

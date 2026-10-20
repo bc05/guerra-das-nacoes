@@ -1,0 +1,211 @@
+[
+  {
+    "asset": "rock_moss_set_01",
+    "map": "fbx",
+    "format": "fbx",
+    "size": 2652988,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/rock_moss_set_01/rock_moss_set_01_2k.fbx",
+    "md5": "e5f57a49dc1b6a000cce3cf6e094e0ed",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/rock_moss_set_01/rock_moss_set_01_2k.fbx",
+    "verified_md5": true,
+    "actual_size": 2652988
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "map": "blend",
+    "format": "blend",
+    "size": 2698020,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/rock_moss_set_01/rock_moss_set_01_2k.blend",
+    "md5": "321f414ebeef8d204fed21f72e451c89",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/rock_moss_set_01/rock_moss_set_01_2k.blend",
+    "verified_md5": true,
+    "actual_size": 2698020
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "map": "Diffuse",
+    "format": "jpg",
+    "size": 649415,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/rock_moss_set_01/rock_moss_set_01_diff_2k.jpg",
+    "md5": "d3e1292c9e34bd6b4a236698a1b41290",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/rock_moss_set_01/rock_moss_set_01_diff_2k.jpg",
+    "verified_md5": true,
+    "actual_size": 649415
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "map": "nor_gl",
+    "format": "png",
+    "size": 24703035,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/rock_moss_set_01/rock_moss_set_01_nor_gl_2k.png",
+    "md5": "06a7b227450f46009a0685629744cf40",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/rock_moss_set_01/rock_moss_set_01_nor_gl_2k.png",
+    "verified_md5": true,
+    "actual_size": 24703035
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "map": "Rough",
+    "format": "jpg",
+    "size": 293827,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/rock_moss_set_01/rock_moss_set_01_rough_2k.jpg",
+    "md5": "f7b3045b503fbde038598f8586ac25ef",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/rock_moss_set_01/rock_moss_set_01_rough_2k.jpg",
+    "verified_md5": true,
+    "actual_size": 293827
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "map": "AO",
+    "format": "jpg",
+    "size": 282220,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/rock_moss_set_01/rock_moss_set_01_ao_2k.jpg",
+    "md5": "58d0054a58727fd08bdc1553d7ba90b1",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/rock_moss_set_01/rock_moss_set_01_ao_2k.jpg",
+    "verified_md5": true,
+    "actual_size": 282220
+  },
+  {
+    "asset": "medieval_wall_02",
+    "map": "Diffuse",
+    "format": "jpg",
+    "size": 3089917,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_wall_02/medieval_wall_02_diff_2k.jpg",
+    "md5": "913517eb0d5aefc68a4a7b15c4af151b",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/medieval_wall_02/medieval_wall_02_diff_2k.jpg",
+    "verified_md5": true,
+    "actual_size": 3089917
+  },
+  {
+    "asset": "medieval_wall_02",
+    "map": "nor_gl",
+    "format": "png",
+    "size": 26505367,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/medieval_wall_02/medieval_wall_02_nor_gl_2k.png",
+    "md5": "2ab717b79aa5f8800d29d09fc5c3d368",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/medieval_wall_02/medieval_wall_02_nor_gl_2k.png",
+    "verified_md5": true,
+    "actual_size": 26505367
+  },
+  {
+    "asset": "medieval_wall_02",
+    "map": "Rough",
+    "format": "jpg",
+    "size": 1956084,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_wall_02/medieval_wall_02_rough_2k.jpg",
+    "md5": "947d7f228a5aec39e90bede6428c54d4",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/medieval_wall_02/medieval_wall_02_rough_2k.jpg",
+    "verified_md5": true,
+    "actual_size": 1956084
+  },
+  {
+    "asset": "medieval_wall_02",
+    "map": "AO",
+    "format": "jpg",
+    "size": 2996151,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_wall_02/medieval_wall_02_ao_2k.jpg",
+    "md5": "4af69da7d914b02983606ab3caaa9dcf",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/medieval_wall_02/medieval_wall_02_ao_2k.jpg",
+    "verified_md5": true,
+    "actual_size": 2996151
+  },
+  {
+    "asset": "cobblestone_floor_07",
+    "map": "Diffuse",
+    "format": "jpg",
+    "size": 2087862,
+    "md5": "78892d1755904b3daffe6998cbe6466f",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_floor_07/cobblestone_floor_07_diff_2k.jpg",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/cobblestone_floor_07/cobblestone_floor_07_diff_2k.jpg",
+    "verified_md5": true,
+    "actual_size": 2087862
+  },
+  {
+    "asset": "cobblestone_floor_07",
+    "map": "nor_gl",
+    "format": "png",
+    "size": 3887838,
+    "md5": "b02ec6cc352811259f3f862db9839066",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/cobblestone_floor_07/cobblestone_floor_07_nor_gl_2k.png",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/cobblestone_floor_07/cobblestone_floor_07_nor_gl_2k.png",
+    "verified_md5": true,
+    "actual_size": 3887838
+  },
+  {
+    "asset": "cobblestone_floor_07",
+    "map": "Rough",
+    "format": "jpg",
+    "size": 1744121,
+    "md5": "8270e2792bfcb614b315e11c2f1e7069",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_floor_07/cobblestone_floor_07_rough_2k.jpg",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/cobblestone_floor_07/cobblestone_floor_07_rough_2k.jpg",
+    "verified_md5": true,
+    "actual_size": 1744121
+  },
+  {
+    "asset": "cobblestone_floor_07",
+    "map": "AO",
+    "format": "jpg",
+    "size": 947328,
+    "md5": "49ed5dbcf9ef0e7b02d8f2893e42993e",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_floor_07/cobblestone_floor_07_ao_2k.jpg",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/cobblestone_floor_07/cobblestone_floor_07_ao_2k.jpg",
+    "verified_md5": true,
+    "actual_size": 947328
+  },
+  {
+    "asset": "forest_ground_04",
+    "map": "Diffuse",
+    "format": "jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_ground_04/forest_ground_04_diff_2k.jpg",
+    "size": 4529321,
+    "md5": "f6ce9c8af4316c2627a4b3fbab8ad944",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/forest_ground_04/forest_ground_04_diff_2k.jpg",
+    "verified_md5": true,
+    "actual_size": 4529321
+  },
+  {
+    "asset": "forest_ground_04",
+    "map": "nor_gl",
+    "format": "png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/forest_ground_04/forest_ground_04_nor_gl_2k.png",
+    "size": 9987026,
+    "md5": "c7bf8a98de1dee39cb6028e06b8bdd37",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/forest_ground_04/forest_ground_04_nor_gl_2k.png",
+    "verified_md5": true,
+    "actual_size": 9987026
+  },
+  {
+    "asset": "forest_ground_04",
+    "map": "Rough",
+    "format": "jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_ground_04/forest_ground_04_rough_2k.jpg",
+    "size": 2509805,
+    "md5": "81daa9a1d8b35dd9ffdff3aa7a74fbd9",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/forest_ground_04/forest_ground_04_rough_2k.jpg",
+    "verified_md5": true,
+    "actual_size": 2509805
+  },
+  {
+    "asset": "forest_ground_04",
+    "map": "AO",
+    "format": "jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_ground_04/forest_ground_04_ao_2k.jpg",
+    "size": 2950026,
+    "md5": "c86e235729064b28e2354bf4bdcd4465",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/forest_ground_04/forest_ground_04_ao_2k.jpg",
+    "verified_md5": true,
+    "actual_size": 2950026
+  },
+  {
+    "asset": "kloofendal_48d_partly_cloudy_puresky",
+    "map": "hdri",
+    "format": "hdr",
+    "size": 5451493,
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+    "md5": "2eba3a4d7eeb23cbfbeca364c97e7980",
+    "path": "/Users/garcez/Documents/Codex/2026-10-18/eu/work/assets-environment/kloofendal_48d_partly_cloudy_puresky/kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+    "verified_md5": true,
+    "actual_size": 5451493
+  }
+]
